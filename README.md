@@ -1,6 +1,6 @@
-# Fintech Case Study
+# Betterment Case Study
 
-![Screenshot](./image.jpg)
+![Screenshot](./Betterment-Logo.png)
 
 ## Overview
 
