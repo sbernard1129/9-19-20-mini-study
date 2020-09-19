@@ -25,14 +25,14 @@ Betterment uses computer based algorithmic trading to find the best possible inv
 
 > Strengths & Weaknesses
 
-Ren, Formerly Republic Protocol, is a startup business that has the algorithm to facilitate the trading of large blocks of cryptocurrency with minimal slippage. This allows the market not to increase or decrease the prices. 
+Better is a robo-advisor has the better user experience, which helps customer engage, and create retention in the application, and the second reason being the difference in the way the portfolio is created.  The portfolio assess the human behavior to create their risk-tolerance. 
 
-The strength:
-•	Allow buyer to buy large quantities of market without releasing their trading receipt to the public.
-•	Anti-money laundering
+Strength: 
+Optimized user experience using data.
 
 Weakness:
-The same case of trading receipts not being public could lead to mass criminal activities. 
+Extra data is being created on the user that leads to selling data on the user to third party companies
+
 
 > Prognosis & Future Outlook
 
