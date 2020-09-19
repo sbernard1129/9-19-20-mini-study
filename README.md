@@ -17,7 +17,7 @@ Mathews Varghese
 
 > Background
 
-Betterment is an investment companies founded in 2008 that primarily focuses on managing portfolios for retail and professional investors, but also offers checking/savings accounts. It is an alternative to traditonal human investor advisors that work in brick-and-mortar banks such as Wells Fargo and US Bank using "robo-advisors". Some other compitors in the robo-advisor space includes Personal Capital (founded in 2009) and Wealthfront (founded in 2008). Betterment leads their competitors in funding with ~$275 million raised and manages $22 billion assets as of March 2020.
+Betterment is an investment companies founded in 2008 that primarily focuses on managing portfolios for retail and professional investors, but also offers checking/savings accounts. It is an alternative to traditonal human investor advisors that work in brick-and-mortar banks such as Wells Fargo and US Bank using "robo-advisors". Some other competitors in the robo-advisor space includes Personal Capital (founded in 2009) and Wealthfront (founded in 2008). Betterment leads their competitors in funding with ~$275 million raised and manages $22 billion assets as of March 2020.
 
 > Technology & FinTech Uses
 
