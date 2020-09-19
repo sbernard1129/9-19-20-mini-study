@@ -25,7 +25,7 @@ Betterment uses computer based algorithmic trading to find the best possible inv
 
 > Strengths & Weaknesses
 
-Betterment is a robo-advisor that has the better user experience, which helps customer engage, and create retention in the application, and the second reason being the difference in the way the portfolio is created.  The portfolio assess the human behavior to create their risk-tolerance. 
+Betterment is a robo-advisor that has better user experience, which helps customer engage, and creates retention in the application, and the second reason being the difference in the way the portfolio is created.  The portfolio assess the human behavior to create their risk-tolerance. 
 
 Strength: 
 Optimized user experience using data.
