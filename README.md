@@ -13,7 +13,7 @@ Justin John
 Mathews Varghese
 ```
 
-### Betterment 
+### Betterment as your next portfolio manager
 
 > Background
 
@@ -25,14 +25,13 @@ Betterment uses computer based algorithmic trading to find the best possible inv
 
 > Strengths & Weaknesses
 
-Better is a robo-advisor that has the better user experience, which helps customer engage, and create retention in the application, and the second reason being the difference in the way the portfolio is created.  The portfolio assess the human behavior to create their risk-tolerance. 
+Betterment is a robo-advisor that has the better user experience, which helps customer engage, and create retention in the application, and the second reason being the difference in the way the portfolio is created.  The portfolio assess the human behavior to create their risk-tolerance. 
 
 Strength: 
 Optimized user experience using data.
 
 Weakness:
 Extra data is being created on the user that leads to selling data on the user to third party companies
-
 
 > Prognosis & Future Outlook
 
